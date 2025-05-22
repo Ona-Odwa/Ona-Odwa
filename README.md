@@ -139,7 +139,10 @@ This helped me realize that I thrive in environments where I can collaborate, cr
 ### 🧾 Evidence
 - Created a professional CV with guidance from the student counsiling 
 
-<img src="/Cv resume.png" alt="CV resume" width="300" />
+ <p align="center">
+<img src="/CV resume.png" alt="CV resume" width="300" />
+
+</p>
 
 ### 💭 Reflection (STAR)
 *S:* I lacked a formal CV suitable for job applications.  
