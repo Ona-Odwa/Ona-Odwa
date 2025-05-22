@@ -116,8 +116,7 @@ I gained clarity about the kind of work that excites me — especially in full-s
 
 
  <p align="center">
-  <img src="/docs/PDFscreen.png" alt="Career Counselling Confirmation Screenshot" width="45%" />
-  <img src="/docs/CertEvi.png" alt="Second Screenshot" width="45%" />
+   <img src="/docs/Personality Assesment.jpg" alt="Personality Assesment" width="300" />
 </p>
 
 ### 💭 Reflection (STAR)
@@ -132,13 +131,15 @@ I completed the assessment, reflected on my responses, and identified that I ali
 
 🏁 R – Result:
 This helped me realize that I thrive in environments where I can collaborate, create, and lead. I’m now more intentional in targeting roles and companies that match these traits, which boosts my confidence in planning a meaningful career path.
+
 ---
 
 ## 📄 4. Create a CV
 
 ### 🧾 Evidence
-- Created a professional CV with guidance from facilitators
-- ![CV Screenshot](/docs/CV%20screen.jpeg)
+- Created a professional CV with guidance from the student counsiling 
+
+<img src="/Cv resume.png" alt="CV resume" width="300" />
 
 ### 💭 Reflection (STAR)
 *S:* I lacked a formal CV suitable for job applications.  
