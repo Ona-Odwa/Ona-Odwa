@@ -140,15 +140,23 @@ This helped me realize that I thrive in environments where I can collaborate, cr
 - Created a professional CV with guidance from the student counsiling 
 
  <p align="center">
-<img src="/CV resume.png" alt="CV resume" width="300" />
-
+<img src="/docs/CV Resume1.jpg" alt="CV Resume1" width="300" />
+<img src="/docs/CV review.jpg" alt="CV review" width="300" />
 </p>
 
 ### 💭 Reflection (STAR)
-*S:* I lacked a formal CV suitable for job applications.  
-*T:* Drafted a professional CV highlighting relevant skills.  
-*A:* Attended CV class on campus, got feedback, and refined the content and layout.  
-*R:* Produced a clear, friendly CV aligned with my skills that aligns the software development industry.
+⭐ S – Situation:
+I realized that I did not have a professional CV suitable for applying to job opportunities in the tech field.
+
+✅ T – Task:
+My objective was to create a well-structured CV that effectively showcased my skills, qualifications, and experience.
+
+🚀 A – Action:
+I attended a CV development workshop on campus, gathered feedback from facilitators, and revised both the content and layout to improve clarity and impact.
+
+🏁 R – Result:
+I developed a polished, industry-aligned CV that accurately reflects my strengths and is tailored to the software development sector.
+
 
 ---
 
@@ -156,22 +164,29 @@ This helped me realize that I thrive in environments where I can collaborate, cr
 
 ### 🧾 Evidence
 - Submitted CV to a simulated or real employer via email or a portal
-![Career Counselling Confirmation Screenshot](/docs/Amazon%20software%20.png)
+<img src="/docs/Cv submission.jpg" alt="Cv submission" width="300" />
 
 ### 💭 Reflection (STAR)
-*S:* I needed to apply the skills learned by submitting my CV professionally.  
-*T:* Looked for an job opportunity and applied with my upgraded CV.  
-*A:* Researched companies, customized my CV, and submitted it successfully.  
-*R:* Received positive feedback and feel more confident in future applications.
+⭐ S – Situation:
+I wanted to put my newly developed CV and career readiness skills into practice by applying for a real job opportunity.
+
+✅ T – Task:
+The goal was to identify a suitable opportunity and submit a tailored, professional CV as part of the application process.
+
+🚀 A – Action:
+I researched potential employers, adapted my CV to align with the specific role, and submitted the application through the appropriate channels.
+
+🏁 R – Result:
+I received encouraging feedback on my CV, which boosted my confidence and prepared me for future job applications.
+
 
 
 ---
 
 ## 📢 Contact
 
-- 📧 Email: 222008237@mycput.ac.za 
-- 💼 LinkedIn: [linkedin.com/in/justin-karoles-05a886224](www.linkedin.com/in/justin-karoles-05a886224) 
+- 📧 Email: 222878746@mycput.ac.za 
+- 💼 LinkedIn: [LinkedIn: ttps://www.linkedin.com/in/ona-faku-166489364/4) 
 
 ---
 
-> This digital portfolio was created as part of the Work Readiness Training assessment and includes both artefacts and reflective insights aligned with the STAR technique.
