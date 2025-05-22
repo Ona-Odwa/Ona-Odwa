@@ -72,6 +72,8 @@ I developed a clearer understanding of the career paths aligned with my qualific
 - Documented outcomes in the below:
  
  <p align="center">
+  Skill and Interest Proof
+  <img src="/docs/Student Counse Proof.jpg" alt="Student Counselling Proof" width="300" />
   <img src="/docs/Todo Login.jpeg" alt="Career Counselling Confirmation Screenshot" width="45%" />
   <img src="/docs/Todo App screenshot.jpeg" alt="Second Screenshot" width="45%" />
 </p>
