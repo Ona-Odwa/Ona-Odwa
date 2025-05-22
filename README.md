@@ -41,7 +41,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 -Engaged with representatives from student counseliing that helped us making our CV's.
 -Currently applied to multiple jobs oppportunties.
 
-<img src="/docs/Student Counse Proof.jpeg" alt="Student Counselling Proof" width="300" />
+<img src="/docs/Student Counse Proof.jpg" alt="Student Counselling Proof" width="300" />
+
 
 ### 💭 Reflection (STAR)
 *S - Situation:* I had to look for WIL and career opportunities from organisations.
