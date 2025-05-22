@@ -10,27 +10,35 @@
 *Ona-Odwa/Ona-Odwa* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 -->
 
+
 ---
 Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / SQL 
-- 🟩 *Vue.js*
-- ⚛ *React*
-- 📜 *JavaScript (JS)*
-- 🌐 *HTML*
-- 🎨 *CSS*
-- ⛓ *Blockchain*
-- ☕ *Java*
-- 🐘 *PHP*
-- 🔥 *Firebase*
-- 🛢 *SQL*
+
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121212?style=for-the-badge&logo=bitcoin&logoColor=orange)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 
 ## 📘 1. Career Counselling
 
 ### 🧾 Evidence
-- Attended the Career WIL recruitment for Capitec on Campus. Also attended ABSA day on campus enquiring about opportunities.
+- Attended the Career WIL recruitment for Capitec on Campus.
+- Also attended ABSA day on campus enquiring about opportunities.
 - Busy with Amazon courses learning provided free by Vodacom learning Cloud computing.
-- Screenshot of email confirmation provided below:
- ![Career Counselling Confirmation Screenshot](images/career-confirmation.png)
+
 
 ### 💭 Reflection (STAR)
 *S - Situation:* I had to look for WIL and career opportunities from organisations.
@@ -50,7 +58,12 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 - Completed a *Skills Self-Assessment* and *Interest Inventory* as part of WIL preparation.
 - Actively applied and refined technical skills during real-world projects at Plum Systems.
 - Participated in collaborative development using *React, **Firebase, and **Redux*, aligned with industry practices.
-- Documented outcomes in the [Skills & Interests Worksheet](docs/skills-interests.pdf).
+- Documented outcomes in the below:
+ 
+ <p align="center">
+  <img src="/docs/Todo Login.jpeg" alt="Career Counselling Confirmation Screenshot" width="45%" />
+  <img src="/docs/Todo App screenshot.jpeg" alt="Second Screenshot" width="45%" />
+</p>
 
 ---
 
@@ -74,8 +87,12 @@ Through this reflection and practical experience, I’ve gained a clear understa
 ## 🧬 3. Personality Assessment
 
 ### 🧾 Evidence
-- Completed a MBTI personality test and reflection exercise
-- [Personality Report PDF](docs/personality-assessment.pdf)
+- I was chosen in my project group as Mediator overseeing the communication in group.
+
+ <p align="center">
+  <img src="/docs/PDFscreen.png" alt="Career Counselling Confirmation Screenshot" width="45%" />
+  <img src="/docs/CertEvi.png" alt="Second Screenshot" width="45%" />
+</p>
 
 ### 💭 Reflection (STAR)
 *S:* I wanted to explore how my personality affects teamwork and leadership.  
@@ -89,13 +106,13 @@ Through this reflection and practical experience, I’ve gained a clear understa
 
 ### 🧾 Evidence
 - Created a professional CV with guidance from facilitators
-- [Download My CV](docs/my-cv.pdf)
+- ![CV Screenshot](/docs/CV%20screen.jpeg)
 
 ### 💭 Reflection (STAR)
 *S:* I lacked a formal CV suitable for job applications.  
-*T:* Draft and finalize a professional CV highlighting relevant skills.  
-*A:* Attended CV workshops, got feedback, and refined the content and layout.  
-*R:* Produced a clear, ATS-friendly CV aligned with the software development industry.
+*T:* Drafted a professional CV highlighting relevant skills.  
+*A:* Attended CV class on campus, got feedback, and refined the content and layout.  
+*R:* Produced a clear, friendly CV aligned with my skills that aligns the software development industry.
 
 ---
 
@@ -103,23 +120,14 @@ Through this reflection and practical experience, I’ve gained a clear understa
 
 ### 🧾 Evidence
 - Submitted CV to a simulated or real employer via email or a portal
-- [Proof of Submission Screenshot](docs/cv-submission.png)
+![Career Counselling Confirmation Screenshot](/docs/Amazon%20software%20.png)
 
 ### 💭 Reflection (STAR)
 *S:* I needed to apply the skills learned by submitting my CV professionally.  
-*T:* Find a job opportunity and submit my CV with a tailored cover letter.  
+*T:* Looked for an job opportunity and applied with my upgraded CV.  
 *A:* Researched companies, customized my CV, and submitted it successfully.  
 *R:* Received positive feedback and feel more confident in future applications.
 
----
-
-## 🧾 Supporting Documents
-
-- [Career Interest Report](docs/career-counselling-report.pdf)
-- [Skills & Interests Inventory](docs/skills-interests.pdf)
-- [Personality Report](docs/personality-assessment.pdf)
-- [CV Document](docs/my-cv.pdf)
-- [Submission Screenshot](docs/cv-submission.png)
 
 ---
 
