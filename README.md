@@ -66,33 +66,36 @@ I developed a clearer understanding of the career paths aligned with my qualific
 
 ### 🧾 Evidence
 
-- Completed a *Skills Self-Assessment* and *Interest Inventory* as part of WIL preparation.
-- Actively applied and refined technical skills during real-world projects at Plum Systems.
-- Participated in collaborative development using *React, **Firebase, and **Redux*, aligned with industry practices.
-- Documented outcomes in the below:
+- Learned that aligning my skills, values, and interests leads to greater job satisfaction and performance.
+
+-Understood the importance of identifying what brings me pride, happiness, and fulfillment in work.
+
+-Discovered that core values like creativity, collaboration, and growth drive my career motivation.
+
+
  
  <p align="center">
-  Skill and Interest Proof
-  <img src="/docs/Student Counse Proof.jpg" alt="Student Counselling Proof" width="300" />
-  <img src="/docs/Todo Login.jpeg" alt="Career Counselling Confirmation Screenshot" width="45%" />
-  <img src="/docs/Todo App screenshot.jpeg" alt="Second Screenshot" width="45%" />
+  
+  <img src="/docs/Skill and Interest Proof.jpg" alt="Student Counselling Proof" width="300" />
+  
 </p>
 
 ---
 
 ### 💭 Reflection (STAR Format)
 
-*S (Situation):*  
-At the beginning of my Work Integrated Learning placement at Plum Systems, I needed to identify my core competencies and align them with my career goals in software development.
+⭐ S – Situation:
+During my Work Integrated Learning (WIL) and personal development sessions, I needed to identify my core values, professional interests, and the skills that would shape my career path.
 
-*T (Task):*  
-I was tasked with completing a skills self-assessment and an interest inventory to better understand where my strengths lie and how they map to industry needs, especially in web development technologies like React and Firebase.
+✅ T – Task:
+My goal was to understand what work brings me pride, happiness, and fulfillment, and how to match those values and interests with specific career options in the tech industry.
 
-*A (Action):*  
-I documented both my hard skills (such as JavaScript, React, Firebase, Git, and REST API integration) and soft skills (communication, collaboration, time management). I then compared my profile against various job descriptions and team expectations during my internship.
+🚀 A – Action:
+I completed self-assessments, reflected on past projects, and analyzed moments where I felt most motivated and successful. I discovered that I’m most engaged when I'm solving problems, working creatively, and collaborating with others in meaningful ways.
 
-*R (Result):*  
-Through this reflection and practical experience, I’ve gained a clear understanding of how my technical interests—like front-end development and AI integration—align with a professional career in full-stack or front-end development. I also realized my growing interest in productivity tools and educational tech solutions, as seen in projects like the Task-ToDo and Smart Learning Management System (SLPMS).
+🏁 R – Result:
+I gained clarity about the kind of work that excites me — especially in full-stack development and educational tech. I now understand how to use my strengths like adaptability, critical thinking, and creativity to pursue roles that are both personally and professionally fulfilling.
+
 
 
 ---
@@ -100,7 +103,17 @@ Through this reflection and practical experience, I’ve gained a clear understa
 ## 🧬 3. Personality Assessment
 
 ### 🧾 Evidence
-- I was chosen in my project group as Mediator overseeing the communication in group.
+-Learned that career satisfaction is strongly linked to how well your job aligns with your personality type.
+
+-Realized that feeling unmotivated or disengaged can result from working in environments that conflict with your natural traits.
+
+-Understood that defining my personality helps guide better career decisions and boosts long-term fulfillment.
+
+-Discovered that my personality leans toward Social, Artistic, and Enterprising traits — which reflects my strengths in communication, creativity, and leadership.
+
+-Matching my personality with the right work environment leads to higher motivation, better job performance, and greater job satisfaction.
+
+
 
  <p align="center">
   <img src="/docs/PDFscreen.png" alt="Career Counselling Confirmation Screenshot" width="45%" />
@@ -108,11 +121,17 @@ Through this reflection and practical experience, I’ve gained a clear understa
 </p>
 
 ### 💭 Reflection (STAR)
-*S:* I wanted to explore how my personality affects teamwork and leadership.  
-*T:* Complete an online personality assessment and analyze the results.  
-*A:* Took the test, reflected on each trait, and discussed findings with a mentor.  
-*R:* Learned I’m an INFJ, which helps me understand my strengths in structured problem-solving and collaboration.
+⭐ S – Situation:
+During my self-development journey in WIL, I aimed to better understand how my personality type affects my work preferences and performance.
 
+✅ T – Task:
+I was required to complete a personality assessment to explore how I can align my career path with my personal strengths and working style.
+
+🚀 A – Action:
+I completed the assessment, reflected on my responses, and identified that I align strongly with Social, Artistic, and Enterprising traits. I analyzed how these strengths showed up in group projects, leadership tasks, and creative problem-solving activities.
+
+🏁 R – Result:
+This helped me realize that I thrive in environments where I can collaborate, create, and lead. I’m now more intentional in targeting roles and companies that match these traits, which boosts my confidence in planning a meaningful career path.
 ---
 
 ## 📄 4. Create a CV
