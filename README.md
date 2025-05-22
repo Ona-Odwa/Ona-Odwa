@@ -37,23 +37,30 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 ## 📘 1. Career Counselling
 
 ### 🧾 Evidence
-- Participated in the Career WIL recruitment event hosted by Capitec on campus.
+-Participated in the Career WIL recruitment event hosted by Capitec on campus.
+
 -Engaged with representatives from student counseliing that helped us making our CV's.
+
 -Currently applied to multiple jobs oppportunties.
+
 
 <img src="/docs/Student Counse Proof.jpg" alt="Student Counselling Proof" width="300" />
 
 
 ### 💭 Reflection (STAR)
-*S - Situation:* I had to look for WIL and career opportunities from organisations.
+⭐ S – Situation:
+I was in the process of exploring Work Integrated Learning (WIL) and career opportunities through various organizations.
 
-*T - Task:* Attend a few sessions for career opportunities.
+✅ T – Task:
+My goal was to attend career-related events and sessions to gain exposure to potential career paths.
 
-*A - Action:* I participated actively, asked questions, ann is in the process of completing courses I enrolled myself into.
+🚀 A – Action:
+I actively participated in events, asked insightful questions, and enrolled in relevant courses — some of which I’m currently completing, such as cloud computing via Amazon’s platform through Vodacom Learning.
 
-*R - Result:* I gained insight into the different careers my qualification can enable. I learned alot about how one should be seeking opportunites.
+🏁 R – Result:
+I developed a clearer understanding of the career paths aligned with my qualification and gained valuable insight into effective strategies for identifying and pursuing job opportunities.
 
----
+
 
 ## 🧠 2. Skills and Interests
 
